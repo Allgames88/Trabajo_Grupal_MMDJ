@@ -1,0 +1,2 @@
+Utilizando Flask, y nginx, hemos creado un script de python que carga dinámicamente una página web, al introducir el link del servidor, mientras el servicio se encuentra activo.
+Junto a este archivo, se lozalizará una copia del script y del html que está hubicado ahi por ahora.
