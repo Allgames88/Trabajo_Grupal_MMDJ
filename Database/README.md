@@ -1,0 +1,1 @@
+Se define el modelo E-R de nuestra Base de Datos para el proyecto Web así como un archivo .sql que formatea la creación de la base de datos con sus correspondientes tablas.
