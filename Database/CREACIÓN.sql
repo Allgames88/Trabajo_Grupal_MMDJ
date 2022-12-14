@@ -8,7 +8,6 @@ create table if not exists productos(
     id int,
     nombre varchar(20),
     precio float,
-    imagen image,
     categoria varchar(20),
     fecha_creacion date,
     stock int,
